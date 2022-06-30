@@ -332,55 +332,55 @@
     "api": "french",
     "translations": {
       "ANTONIO": {
-        "description": "Ses dégâts augmentent de 10% tous les 10 niveaux (+50% max).",
         "charName": "Antonio",
-        "surname": "Belpaese"
+        "surname": "Belpaese",
+        "description": "Gagne +10% Puissace tous les 10 niveaux (+50% max)."
       },
       "IMELDA": {
-        "description": "Son expérience augmente de 10% tous les 5 niveaux (+30% max).",
         "charName": "Imelda",
-        "surname": "Belpaese"
+        "surname": "Belpaese",
+        "description": "Gagne +10% Croissance tous les 5 niveaux (+30% max)."
       },
       "CIRO": {
         "charName": "Arca",
-        "description": "Le cooldown de l'arme est réduit de 5% tous les 10 niveaux (-15% max).",
-        "surname": "Ladonna"
+        "surname": "Ladonna",
+        "description": "Gagne -5% Cooldown tous les 10 niveaux (-15% max)."
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Durée et puissance de tir à + 40% et vitesse à - 30%, en permanence."
+        "description": "Gagne +40% Durée et Vitesse des projectiles et -30% Vitesse, en permanence."
       },
       "EXDASH": {
         "description": "Au moins, ils ont de la chance."
       },
       "GENNARO": {
         "charName": "Gennaro",
-        "description": "1 projectile supplémentaire en permanence (pour toutes les armes).",
-        "surname": "Belpaese"
+        "surname": "Belpaese",
+        "description": "+1 Quantité de projectile en permanence (pour toutes les armes)."
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+ 0.5 PV et + 50 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
-        "prefix": "Suor"
+        "prefix": "Suor",
+        "description": "Commence avec un bonus de Portée temporaire. + 0.5 PV/s et + 50 PV max, en permanence."
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
       },
       "CAMILLO": {
         "charName": "Poe",
-        "description": "Portée de ramassage à + 25% et - 30 de santé max, en permanence.",
-        "surname": "Ratcho"
+        "surname": "Ratcho",
+        "description": "+ 25% Portée et -30 PV max en permanence."
       },
       "PASQUALINA": {
         "charName": "Pasqualina",
-        "description": "Les projectiles sont 10% plus rapides tous les 5 niveaux (+ 30% max).",
-        "surname": "Belpaese"
+        "surname": "Belpaese",
+        "description": "Gagne +10% Vitesse du projectile tous les 5 niveaux (+ 30% max)."
       },
       "PORTA": {
         "charName": "Porta",
-        "description": "Portée à + 30% en permanence. Commence avec un bonus de cooldown temporaire.",
-        "surname": "Ladonna"
+        "surname": "Ladonna",
+        "description": "Commence avec un bonus de Cooldown temporaire. + 30% Portée, en permanence."
       },
       "CROCI": {
         "charName": "Krochi",
@@ -390,68 +390,68 @@
       "LAMA": {
         "charName": "Lama",
         "surname": "Ladonna",
-        "description": "Gagne +5% de puissance, de vitesse de déplacement et de malédiction tous les 10 niveaux (+20% max)."
+        "description": "Gagne +5% de Puissance, de Vitesse et de Malédiction tous les 10 niveaux (+20% max)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
       },
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
-        "description": "Gagne +1% de durée à chaque niveau."
+        "description": "Gagne +1% de Durée à chaque niveau."
       },
       "CRISTINA": {
-        "description": "Commence avec un niveau supplémentaire.",
         "surname": "Davain",
-        "charName": "Christine"
+        "charName": "Christine",
+        "description": "Commence avec un niveau supplémentaire."
       },
       "PUGNALA": {
-        "description": "Gagne +1% de puissance à chaque niveau.",
         "surname": "Provola",
-        "charName": "Pugnala"
+        "charName": "Pugnala",
+        "description": "Gagne +1% de puissance à chaque niveau."
       },
       "MARIA": {
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+3 max).",
         "prefix": "Bianca",
-        "charName": "Ramba"
+        "charName": "Ramba",
+        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
       },
       "GIOVANNA": {
         "charName": "Giovanna",
         "surname": "Grana",
-        "description": "Gains +1% Projectile Speed every level."
+        "description": "Gagne +1% de Vitesse du projectile à chaque niveau."
       },
       "TATANKA": {
         "name": "O'Sole",
         "surname": "Meeo",
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
       },
       "CONCETTA": {
         "charName": "Concetta",
         "surname": "Caciotta",
-        "description": "Gains +1% Area every level."
+        "description": "Gagne +1% de Portée à chaque niveau."
       },
       "FEBBRA": {
         "charName": "Divano",
         "surname": "Thelma",
-        "description": "Starts with 1 extra level. Gains +1 Armor every 5 levels (max +5)."
+        "description": "Commence avec un niveau supplémentaire. Gagne +1 Armure tous les 5 niveaux (max +5)."
       },
       "PINO": {
         "charName": "Gallo",
         "suffix": "Iguana",
         "surname": "Valletto",
-        "description": "Starts with 1 extra level. Gains +10% Growth every 5 levels (max +50%)."
+        "description": "Comence avec un niveau supplémentaire. Gagne +10% de Croissance tous les 5 niveaux (max +50%)."
       },
       "ASSUNTA": {
         "charName": "Zi'Assunta",
         "surname": "Belpaese",
-        "description": "Gains +0.5% Might, projectile Speed, Duration, and Area every level."
+        "description": "Gagne +0.5% Puissance, Vitesse du projectile, Durée et Portée à chaque niveau."
       },
       "GRAZIELLA": {
         "charName": "Minnah",
         "surname": "Mannarah",
-        "description": "Might, projectile Speed, Duration, Area, and Cooldown change every minute."
+        "description": "Puissance, Vitesse du projectile, Durée, Portée et Cooldown changent à chaque minute."
       },
       "NEO": {
         "charName": "Marrabbio",
@@ -459,12 +459,12 @@
       },
       "PEPPINO": {
         "charName": "Peppino",
-        "description": "Starts with temporarily reduced area."
+        "description": "Commence avec une Portée temporairement réduite."
       },
       "AMBROGIO": {
         "prefix": "Sir",
         "charName": "Ambrojoe",
-        "description": "Gets more projectiles every 20 levels (max+3). Starts with temporary Amount bonus."
+        "description": "Commence avec une Quantité de projectile temporairement augmentée. Gagne +1 Quantité de projectile tous les 20 niveaux (max+3)."
       }
     }
   },

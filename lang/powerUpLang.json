@@ -278,7 +278,7 @@
         "description": "La probabilité d'avoir de la chance augmente de 10% par rang (+ 30% max)."
       },
       "GROWTH": {
-        "name": "Apprendre",
+        "name": "Croissance",
         "description": "Rapporte 3% d'expérience en plus par rang (+ 15% max)."
       },
       "GREED": {
