@@ -119,6 +119,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },
@@ -253,6 +263,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },
@@ -357,18 +377,28 @@
       },
       "RELIC_YELLOW": {
         "name": "Signe Jaune",
-        "description": "Permet de façon permanente de détecter les objets cachés dans tous les niveaux.",
-        "achievementTips": "Objet de niveau caché."
+        "description": "Permet de façon permanente de détecter les objets cachés dans tous les niveaux depuis le Menu Pause.",
+        "achievementTips": "Objets cachés."
       },
       "RELIC_GRIMOIRE": {
         "name": "Grimoire Sinistre",
-        "description": "Permet de façon permanente de voir les évolutions et les unions des ames déjà découvertes depuis le menu pause.",
+        "description": "Permet de façon permanente de voir les évolutions et les unions des ames déjà découvertes depuis le Menu Pause.",
         "achievementTips": "Liste des évolutions."
       },
       "RELIC_NOSEGLASSES": {
         "name": "Contrôleur de l'esprit",
-        "description": "Permet de façon permanente de changer l'apparence du personnage (losque c'est possible) et le nombre maximum d'armes.",
-        "achievementTips": "Personnalisation du personnage."
+        "description": "Permet de façon permanente de changer l'apparence du personnage (losque c'est possible) et le nombre maximum d'armes dans la Sélection du Niveau.",
+        "achievementTips": "Personnalisations."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permet de façon permanente d'accéder a la liste des ennemis vaincus dans le Menu Principal.",
+        "achievementTips": "Bestiaire."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Grand Gospel",
+        "description": "Permet de façon permanente d'améliorer les armes au dela de leurs limites. Peut être activé dans la Sélection du Niveau.",
+        "achievementTips": "Dépasse les limites."
       }
     }
   },
@@ -479,6 +509,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },
@@ -607,6 +647,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },
@@ -709,7 +759,7 @@
         "achievementTips": "숨겨진 마법유물."
       },
       "RELIC_GRIMOIRE": {
-        "name": "그림 그리모어",
+        "name": "엄숙한 마도서",
         "description": "일시 정지 메뉴에서 발견한 무기 진화,조합법을 영구적으로 확인할수 있습니다.",
         "achievementTips": "진화목록."
       },
@@ -717,6 +767,16 @@
         "name": "코주부 안경",
         "description": "캐릭터의 외형을 변경 가능하게 해줍니다 또한 게임 시작 전에 소지 가능한 최대 무기의 수량을 지정할 수 있습니다.",
         "achievementTips": "캐릭터 커스터마이징."
+      },
+      "RELIC_GOUDA": {
+        "name": "괴물 도감",
+        "description": "메뉴에서 처치한 적 목록을 확인할수 있습니다.",
+        "achievementTips": "도감."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "위대한 복음",
+        "description": "무기의 한계를 돌파할수 있습니다. 스테이지 선택 화면에서 활성화할 수 있습니다",
+        "achievementTips": "한계 돌파."
       }
     }
   },
@@ -845,6 +905,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },
@@ -961,6 +1031,16 @@
         "name": "Покоритель Разума",
         "description": "Позволяет изменять внешний вид персонажа (где это применимо) и макс. загрузку оружия.",
         "achievementTips": "кастомизация персонажа."
+      },
+      "RELIC_GOUDA": {
+        "name": "Арс Гауда",
+        "description": "Дает доступ к списку поверженных врагов из главного меню.",
+        "achievementTips": "Бестиарий."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Великое Евангелие",
+        "description": "Позволяет повышать уровень оружия сверх его предела. Может быть включен при выборе этапа.",
+        "achievementTips": "Сверх Предела."
       }
     }
   },
@@ -1071,6 +1151,16 @@
         "name": "Mindbender",
         "description": "Permanently allows to change character appearance (where applicable) and maximum weapon loadout.",
         "achievementTips": "character customization."
+      },
+      "RELIC_GOUDA": {
+        "name": "Ars Gouda",
+        "description": "Permanently allows to access the list of defeated enemies from the main menu.",
+        "achievementTips": "Bestiary."
+      },
+      "RELIC_GGOSPEL": {
+        "name": "Great Gospel",
+        "description": "Permanently allows to level up weapons beyond their limit. Can be enabled in Stage Selection.",
+        "achievementTips": "Limit Break."
       }
     }
   },

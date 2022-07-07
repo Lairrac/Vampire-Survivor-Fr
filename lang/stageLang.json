@@ -172,7 +172,7 @@
       "GREENACRES": {
         "stageName": "Grand Pâturage",
         "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
-        "tips": "Vagues d'ennemis aléatoires des étapes normales",
+        "tips": "Vagues d'ennemis aléatoires des niveaux normaux",
         "hyperTips": "50% d'or bonus\n10% de chance bonus",
         "stagenNumber": "Défi"
       },
@@ -189,24 +189,24 @@
       },
       "TOWER": {
         "stageName": "Tour Gallo",
-        "description": "This tower holds great magical artifacts and historically accurate monsters."
+        "description": "Cette tour garde un grand artéfact magique et des monstres historiques."
       },
       "BONEZONE": {
         "stageName": "Catacombes",
-        "description": "Come over here and say your unholy vespers.",
-        "tips": "No item drops. Enemies grow stronger over time."
+        "description": "Venez ici réciter les Écrits Hérétiques.",
+        "tips": "Pas de drop d'items. Plus la partie dure, plus les ennemis sont forts."
       },
       "SINKING": {
         "stageName": "Clair de Lune",
-        "description": "When the moon is red and bright, the remnants of a town swallowed by the sea come back to the surface, bringing mysteries and riches.",
-        "tips": "Extra stage items"
+        "description": "Lorsque la lune est rouge et brillante, les revenants d'une ville engloutie par la mer refait surface, ramenant mystères et richesses.",
+        "tips": "Niveau Bonus plein d'objets"
       },
       "STAGEX": {
         "description": "Quoi, toi aussi tu peux le voir ? Ca ne va pas..."
       },
       "CHAPEL": {
         "stageName": "Grande Chapelle",
-        "description": "Have we gone too far? Could have just camped in the forest with all that chicken, but noooo, we had to go chase some random vampire instead."
+        "description": "Sommes-nous allés trop loin? On aurais pu rester dans la forêt avec tout plein de poulet rôti, mais noooon, il a fallu qu'on aille chasser des Vampires à la place."
       }
     }
   },

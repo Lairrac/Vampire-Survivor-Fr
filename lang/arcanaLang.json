@@ -17,6 +17,10 @@
     "native": "简体中文",
     "api": "schinese",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."
@@ -112,6 +116,10 @@
     "native": "English",
     "api": "english",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."
@@ -189,6 +197,10 @@
     "native": "Français 80%",
     "api": "french",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Stop le gain d'XP. Les gemmes d'XP se transforment en projectils explosifs. Tous les  trésors contiennent au moins 3 objets."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "le temps de pause des armes suivantes est réduit en déplacements."
@@ -260,6 +272,10 @@
     "native": "Deutsch 80%",
     "api": "german",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."
@@ -349,6 +365,10 @@
     "native": "日本語 90%",
     "api": "japanese",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."
@@ -420,6 +440,10 @@
     "native": "한국어",
     "api": "koreana",
     "translations": {
+      "0": {
+        "name": "게임 킬러",
+        "description": "떨어지는 모든 경험치 보석을 폭발하는 발사체로 바꿉니다. 모든 보물 상자에는 최소 3개의 아이템을 보장합니다."
+      },
       "3": {
         "name": "III - 공주의 비련",
         "description": "목록에 있는 무기의 쿨타임이 이동시 대폭 감소합니다."
@@ -509,6 +533,10 @@
     "native": "Português-Brasil",
     "api": "brazilian",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."
@@ -586,6 +614,10 @@
     "native": "Русский",
     "api": "russian",
     "translations": {
+      "0": {
+        "name": "Убийца Игры",
+        "description": "Останавливает прирост опыта. Самоцветы ОПЫТА превращаются во взрывающиеся снаряды. Все Сокровища содержат не менее 3 предметов."
+      },
       "3": {
         "name": "III - Трагическая принцесса",
         "description": "Время отката перечисленного оружия уменьшается при перемещении."
@@ -657,6 +689,10 @@
     "native": "Español 80%",
     "api": "spanish",
     "translations": {
+      "0": {
+        "name": "Game Killer",
+        "description": "Halts XP gain. XP gems turn into exploding projectiles. All Treasures contain at least 3 items."
+      },
       "3": {
         "name": "III - Tragic Princess",
         "description": "The cooldown of the listed weapons reduces when moving."

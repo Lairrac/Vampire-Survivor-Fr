@@ -361,6 +361,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
@@ -737,6 +746,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
@@ -1094,7 +1112,16 @@
         "description": "Atteignez le niveau 100 avec Sir Ambrojoe."
       },
       "FindGrimoire": {
-        "description": "Trouvez le Grimoire Sinistre."
+       "description": "Trouvez le Grimoire Sinistre."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Trouvez le Grand Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Éliminez le dernier ennemi dans la Grande Chapelle."
       }
     }
   },
@@ -1167,7 +1194,7 @@
         "description": "Besiege insgesamt 5000 Gegner."
       },
       "Defeat3000Skeletons": {
-        "description": "Besiege insgesamt 3 000 Skelette."
+        "description": "Besiege insgesamt 3000 Skelette."
       },
       "DefeatBossMadForest": {
         "description": "Besiege die riesige Blaue Venus im Verrückten Wald."
@@ -1447,6 +1474,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
@@ -1817,6 +1853,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
@@ -2169,6 +2214,15 @@
       },
       "FindGrimoire": {
         "description": "그림 그리모어 발견."
+      },
+      "FindGouda": {
+        "description": "괴물 도감 발견."
+      },
+      "FindGGospel": {
+        "description": "위대한 복음 발견."
+      },
+      "DefeatBossChapel2": {
+        "description": "마그나 예배당에서 최후의 적을 처치."
       }
     }
   },
@@ -2539,6 +2593,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
@@ -2893,10 +2956,19 @@
         "description": "Откройте 100 предметов в Коллекции."
       },
       "ReachLV100WithAmbrojoe": {
-        "description": "Достигните 100 Уровня с  Сэром Амбро Джо."
+        "description": "Достигните 100 Уровня с Сэром Амбро Джо."
       },
       "FindGrimoire": {
         "description": "Найдите Мрачный Гримуар."
+      },
+      "FindGouda": {
+        "description": "Найдите Арс Гауду."
+      },
+      "FindGGospel": {
+        "description": "Найдите Великое Евангелие."
+      },
+      "DefeatBossChapel2": {
+        "description": "Победите последнего врага в Капелле Магна."
       }
     }
   },
@@ -3249,6 +3321,15 @@
       },
       "FindGrimoire": {
         "description": "Find the Grim Grimoire."
+      },
+      "FindGouda": {
+        "description": "Find the Ars Gouda."
+      },
+      "FindGGospel": {
+        "description": "Find the Great Gospel."
+      },
+      "DefeatBossChapel2": {
+        "description": "Defeat the final enemy in the Cappella Magna."
       }
     }
   },
