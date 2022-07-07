@@ -290,7 +290,7 @@
         "description": "Annule les dégâts d'une attaque. Se combine au Laurier."
       },
       "REVIVAL": {
-        "name": "Résurrection",
+        "name": "Réssurrection",
         "description": "Ressuscite une fois avec 50% de points de vie."
       },
       "REROLL": {
