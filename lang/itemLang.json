@@ -309,7 +309,7 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "GEM": {
-        "name": "Gemme d'expérience",
+        "name": "Gemme d'Expérience",
         "description": "Augmente l'expérience."
       },
       "OROLOGION": {
@@ -318,7 +318,7 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "ROAST": {
-        "name": "Poulet rôti",
+        "name": "Poulet Rôti",
         "description": "Restaure 30 points de vie.",
         "tips": "Taux de drop affecté par la chance."
       },
@@ -328,7 +328,7 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "TREASURE": {
-        "name": "Coffre au trésor",
+        "name": "Coffre au Trésor",
         "description": "Attribue des pièces et des power-ups. Droppé par les ennemis puissants.",
         "tips": "Qualité affectée par la chance."
       },
@@ -343,7 +343,7 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "RELIC_MAP": {
-        "name": "Carte de la Voie lactée",
+        "name": "Carte de la Voie Lactée",
         "description": "Active de façon permanente la carte dans le menu pause.",
         "achievementTips": "carte du menu pause."
       },
@@ -358,12 +358,12 @@
         "achievementTips": "Arcanas."
       },
       "RELIC_BANGER": {
-        "name": "Haricot Magique",
+        "name": "Morceau Magique",
         "description": "Active de façon permanente le changement de musique dans la sélection du niveau.",
         "achievementTips": "Sélection de la musique."
       },
       "GILDED": {
-        "name": "Trèfle doré",
+        "name": "Trèfle Doré",
         "description": "Récupère tout l'or laissé par terre et lance une Fièvre de l'Or."
       },
       "RELIC_GLASSMASK": {
@@ -373,7 +373,7 @@
       },
       "RELIC_GOLDENEGG": {
         "name": "Œuf en Or",
-        "description": "Améliore de façon permanente un statistique aléatoire du personnage actuel d'une petite quantité."
+        "description": "Améliore de façon permanente une statistique aléatoire du personnage actuel d'une petite quantité."
       },
       "RELIC_YELLOW": {
         "name": "Signe Jaune",
@@ -386,8 +386,8 @@
         "achievementTips": "Liste des évolutions."
       },
       "RELIC_NOSEGLASSES": {
-        "name": "Contrôleur de l'esprit",
-        "description": "Permet de façon permanente de changer l'apparence du personnage (losque c'est possible) et le nombre maximum d'armes dans la Sélection du Niveau.",
+        "name": "Contrôleur d'Esprits",
+        "description": "Permet de façon permanente de changer l'apparence du personnage (lorsque c'est possible) et le nombre maximum d'armes dans la Sélection du Niveau.",
         "achievementTips": "Personnalisations."
       },
       "RELIC_GOUDA": {
@@ -397,7 +397,7 @@
       },
       "RELIC_GGOSPEL": {
         "name": "Grand Gospel",
-        "description": "Permet de façon permanente d'améliorer les armes au dela de leurs limites. Peut être activé dans la Sélection du Niveau.",
+        "description": "Permet de façon permanente d'améliorer les armes au-delà de leurs limites. Peut être activé dans la Sélection du Niveau.",
         "achievementTips": "Dépasse les limites."
       }
     }

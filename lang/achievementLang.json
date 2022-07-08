@@ -878,7 +878,7 @@
         "description": "Éliminez un total de 100 000 ennemis."
       },
       "Recover1000HP": {
-        "description": "Récupérer un total de 1000 PV."
+        "description": "Récupérez un total de 1000 PV."
       },
       "Earn5000CoinsInASingleRun": {
         "description": "Gagnez 5000 pièces en un seul passage."
@@ -902,7 +902,7 @@
         "description": "Atteignez le niveau 100 avec Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Survivez 30 minutes dans le Grand pâturage."
+        "description": "Survivez 30 minutes dans les Pâturages Verts."
       },
       "Survive20MinutesWithCross": {
         "description": "Survivez 20 minutes avec Krochi."
@@ -983,7 +983,7 @@
         "description": "Éliminez un  total de 3 000 Élémentaux de Lait."
       },
       "EvolveRunetracer": {
-        "description": "Faites évoluer le Traqueurde Runes."
+        "description": "Faites évoluer le Traqueur de Runes."
       },
       "See70Items": {
         "description": "Remplissez 70 entrées dans le Glossaire."
@@ -1016,7 +1016,7 @@
         "description": "Trouvez le Randomazzo."
       },
       "FindRandomazzoT06": {
-        "description": "Trouvez le randomazzo."
+        "description": "Trouvez le Randomazzo."
       },
       "ReachLV99WithGiovanna": {
         "description": "Atteignez le niveau 99 avec Giovanna."
@@ -1025,10 +1025,10 @@
         "description": "Atteignez le niveau 99 avec Krochi."
       },
       "ReachLV99WithLama": {
-        "description": "Atteingez le niveau 99 avec Lama."
+        "description": "Atteignez le niveau 99 avec Lama."
       },
       "ReachLV99WithPoppea": {
-        "description": "Atteingez le niveau 99 avec Poppea."
+        "description": "Atteignez le niveau 99 avec Poppea."
       },
       "ReachLV99WithArca": {
         "description": "Atteignez le niveau 99 avec Arca."
@@ -1055,7 +1055,7 @@
         "description": "Remplissez 80 entrées dans le Glossaire."
       },
       "FindMagicBanger": {
-        "description": "Trouvez le haricot magique."
+        "description": "Trouvez le Morceau Magique."
       },
       "See90Items": {
         "description": "Remplissez 90 entrées dans le Glossaire."
@@ -1064,7 +1064,7 @@
         "description": "Trouvez le Signe Jaune."
       },
       "ObtainTheInfiniteCorridor": {
-        "description": "Obtenez le Couloir Infinit."
+        "description": "Obtenez le Couloir Infini."
       },
       "ObtainTheCrimsonShroud": {
         "description": "Obtenez la Cape Rouge."
@@ -1082,7 +1082,7 @@
         "description": "Faites monter la Boite de Torrona au niveau 9."
       },
       "FindYellowSignS5": {
-        "description": "Faites face à tout l'évenement de l'Éclipse, qui a commencé à Clair de Lune."
+        "description": "Faites entièrement l'évenement de l'Éclipse, qui a commencé à Clair de Lune."
       },
       "FindCoffinStage5": {
         "description": "Trouvez et ouvrez le cercueil dans la Grande Chapelle."

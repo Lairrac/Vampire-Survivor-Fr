@@ -344,7 +344,7 @@
       "ANTONIO": {
         "charName": "Antonio",
         "surname": "Belpaese",
-        "description": "Gagne +10% Puissace tous les 10 niveaux (+50% max)."
+        "description": "Gagne +10% Puissance tous les 10 niveaux (+50% max)."
       },
       "IMELDA": {
         "charName": "Imelda",
@@ -354,14 +354,14 @@
       "CIRO": {
         "charName": "Arca",
         "surname": "Ladonna",
-        "description": "Gagne -5% Cooldown tous les 10 niveaux (-15% max)."
+        "description": "Gagne -5% Temps de Pause tous les 10 niveaux (-15% max)."
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Gagne +40% Durée et Vitesse des projectiles et -30% Vitesse, en permanence."
+        "description": "Gagne +40% Durée et Vitesse des projectiles et -30% Vitesse de Déplacement, en permanence."
       },
       "EXDASH": {
-        "description": "Au moins, ils ont de la chance."
+        "description": "Au moins, ils sont chanceux."
       },
       "GENNARO": {
         "charName": "Gennaro",
@@ -371,26 +371,26 @@
       "GERMANA": {
         "charName": "Clerici",
         "prefix": "Suor",
-        "description": "Commence avec un bonus de Portée temporaire. + 0.5 PV/s et + 50 PV max, en permanence."
+        "description": "Commence avec un bonus de Portée temporaire. + 50 PV Max et +0.5 PV/s, en permanence."
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
-        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité des Projectiles tous les 20 niveaux (+3 max)."
       },
       "CAMILLO": {
         "charName": "Poe",
         "surname": "Ratcho",
-        "description": "+ 25% Portée et -30 PV max en permanence."
+        "description": "+ 25% Portée et -30 PV max, en permanence."
       },
       "PASQUALINA": {
         "charName": "Pasqualina",
         "surname": "Belpaese",
-        "description": "Gagne +10% Vitesse du projectile tous les 5 niveaux (+ 30% max)."
+        "description": "Gagne +10% Vitesse des Projectiles tous les 5 niveaux (+ 30% max)."
       },
       "PORTA": {
         "charName": "Porta",
         "surname": "Ladonna",
-        "description": "Commence avec un bonus de Cooldown temporaire. + 30% Portée, en permanence."
+        "description": "Commence avec un bonus de Temps de Pause temporaire. + 30% Portée, en permanence."
       },
       "CROCI": {
         "charName": "Krochi",
@@ -405,7 +405,7 @@
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité des Projectiles tous les 20 niveaux (+3 max)."
       },
       "POPPEA": {
         "charName": "Poppea",
@@ -420,22 +420,22 @@
       "PUGNALA": {
         "surname": "Provola",
         "charName": "Pugnala",
-        "description": "Gagne +1% de puissance à chaque niveau."
+        "description": "Gagne +1% de Puissance à chaque niveau."
       },
       "MARIA": {
         "prefix": "Bianca",
         "charName": "Ramba",
-        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité des Projectiles tous les 20 niveaux (+3 max)."
       },
       "GIOVANNA": {
         "charName": "Giovanna",
         "surname": "Grana",
-        "description": "Gagne +1% de Vitesse du projectile à chaque niveau."
+        "description": "Gagne +1% de Vitesse des Projectiles à chaque niveau."
       },
       "TATANKA": {
         "name": "O'Sole",
         "surname": "Meeo",
-        "description": "Gagne +1 Quantité de projectile tous les 20 niveaux (+3 max)."
+        "description": "Gagne +1 Quantité des Projectiles tous les 20 niveaux (+3 max)."
       },
       "CONCETTA": {
         "charName": "Concetta",
@@ -456,12 +456,12 @@
       "ASSUNTA": {
         "charName": "Zi'Assunta",
         "surname": "Belpaese",
-        "description": "Gagne +0.5% Puissance, Vitesse du projectile, Durée et Portée à chaque niveau."
+        "description": "Gagne +0.5% Puissance, Vitesse des Projectiles, Durée et Portée à chaque niveau."
       },
       "GRAZIELLA": {
         "charName": "Minnah",
         "surname": "Mannarah",
-        "description": "Puissance, Vitesse du projectile, Durée, Portée et Cooldown changent à chaque minute."
+        "description": "Puissance, Vitesse des Projectiles, Durée, Portée et Temps de Pause changent à chaque minute."
       },
       "NEO": {
         "charName": "Marrabbio",
@@ -474,7 +474,7 @@
       "AMBROGIO": {
         "prefix": "Sir",
         "charName": "Ambrojoe",
-        "description": "Commence avec une Quantité de projectile temporairement augmentée. Gagne +1 Quantité de projectile tous les 20 niveaux (max+3)."
+        "description": "Commence avec une Quantité des Projectiles temporairement augmentée. Gagne +1 Quantité des Projectiles tous les 20 niveaux (max+3)."
 	  },
 	  "BOROS": {
         "name": "Gains",

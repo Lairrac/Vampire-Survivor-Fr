@@ -199,19 +199,19 @@
     "translations": {
       "0": {
         "name": "Game Killer",
-        "description": "Stop le gain d'XP. Les gemmes d'XP se transforment en projectils explosifs. Tous les  trésors contiennent au moins 3 objets."
+        "description": "Stoppe le gain d'XP. Les gemmes d'XP se transforment en projectiles explosifs. Tous les trésors contiennent au moins 3 objets."
       },
       "3": {
         "name": "III - Tragic Princess",
-        "description": "le temps de pause des armes suivantes est réduit en déplacements."
+        "description": "le Temps de Pause des armes suivantes est réduit lorsque vous vous déplacez."
       },
       "4": {
         "name": "IV - Awake",
-        "description": "Donne +3 Réssurrections. Utiliser une résurrection donne +10% PV Max, +1 Armure et +5% Puissance, Portée, Durée et Vitesse."
+        "description": "Donne +3 Réssurrection. Utiliser une résurrection donne +10% PV Max, +1 Armure et +5% Puissance, Portée, Durée et Vitesses des Projectiles."
       },
       "5": {
         "name": "V - Chaos in the Dark Night",
-        "description": "Toutes les vitesses des projectiles changent constamment entre -50% et +200% toutes les 10 secondes."
+        "description": "Toutes les Vitesses des Projectiles changent constamment entre -50% et +200% toutes les 10 secondes."
       },
       "6": {
         "name": "VI - Sarabande of Healing",
@@ -223,7 +223,7 @@
       },
       "8": {
         "name": "VIII - Mad Groove",
-        "description": "Toutes les 2 minutes, attire tous les objets de niveau, pickups et sources de lumières du niveau autour du personnage."
+        "description": "Toutes les 2 minutes, attire toutes les Armes du Niveau, pickups et sources de lumière du niveau autour du personnage."
       },
       "10": {
         "name": "X - Beginning",
@@ -235,7 +235,7 @@
       },
       "12": {
         "name": "XII - Out of Bounds",
-        "description": "Geler les ennemis genère des explosions. Les Orlogions sont plus simples à trouver."
+        "description": "Geler les ennemis genère des explosions. Les Orlogions apparaisent plus souvent."
       },
       "14": {
         "name": "XIV - Jail of Crystal",
@@ -243,7 +243,7 @@
       },
       "15": {
         "name": "XV - Disco of Gold",
-        "description": "Les sacs de pièces au sol déclenchent une Fièvre de l'Or. Obtenir de l'or restaure autant de PV."
+        "description": "Les Sacs d'Or au sol déclenchent une Fièvre de l'Or. Obtenir de l'or restaure autant de PV."
       },
       "16": {
         "name": "XVI - Slash",
@@ -255,11 +255,11 @@
       },
       "18": {
         "name": "XVIII - Boogaloo of Illusions",
-        "description": "Toutes les Portées changent constamment entre -25%et +50% toutes les 10 secondes."
+        "description": "Toutes les Portées changent constamment entre -25% et +50% toutes les 10 secondes."
       },
       "19": {
         "name": "XIX - Heart of Fire",
-        "description": "Les armes suivantes explosent à l'impact. Les sources de lumières explosent. Le personnage explose losqu'il prend des dégâts."
+        "description": "Les armes suivantes explosent à l'impact. Les sources de lumière explosent. Le personnage explose losqu'il prend des dégâts."
       },
       "20": {
         "name": "XX - Silent Old Sanctuary",

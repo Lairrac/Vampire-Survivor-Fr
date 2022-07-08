@@ -239,7 +239,7 @@
       },
       "MAXHEALTH": {
         "name": "Santé max",
-        "description": "Augmente les PV max de 10 % par rang (+ 30% max)."
+        "description": "Augmente la santé max de 10 % par rang (+ 30% max)."
       },
       "ARMOR": {
         "name": "Armure",
@@ -278,7 +278,7 @@
         "description": "La probabilité d'avoir de la chance augmente de 10% par rang (+ 30% max)."
       },
       "GROWTH": {
-        "name": "Croissance",
+        "name": "Apprendre",
         "description": "Rapporte 3% d'expérience en plus par rang (+ 15% max)."
       },
       "GREED": {
@@ -290,11 +290,11 @@
         "description": "Annule les dégâts d'une attaque. Se combine au Laurier."
       },
       "REVIVAL": {
-        "name": "Réssurrection",
+        "name": "Relance",
         "description": "Ressuscite une fois avec 50% de points de vie."
       },
       "REROLL": {
-        "name": "Relance",
+        "name": "Retenter",
         "description": "Une fois par rang, permet d'obtenir des choix différents lors de la montée en niveau."
       },
       "SKIP": {
@@ -311,7 +311,7 @@
       },
       "PANDORA": {
         "name": "Omni",
-        "description": "Améliore Puisance, Vitesse des projectiles, Durée et portée par 2% par rang (max +10%)."
+        "description": "Increases Might, Projectile Speed, Duration, and Area by 2% per rank (max +10%)."
       }
     }
   },

@@ -170,14 +170,14 @@
         "hyperTips": "50% d'or bonus\n10% de chance bonus"
       },
       "GREENACRES": {
-        "stageName": "Grand Pâturage",
+        "stageName": "Pâturages Verts",
         "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
         "tips": "Vagues d'ennemis aléatoires des niveaux normaux",
         "hyperTips": "50% d'or bonus\n10% de chance bonus",
         "stagenNumber": "Défi"
       },
       "WAREHOUSE": {
-        "stageName": "Usine laitière",
+        "stageName": "Usine Laitière",
         "description": "La carte magique cachée ici pourraits enfin nous mener à un vampire, ou au moins à plus de poulet rôti.",
         "hyperTips": "50% d'or bonus\n10% de chance bonus"
       },
