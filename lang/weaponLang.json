@@ -723,7 +723,7 @@
       "SCYTHE": {
         "name": "Spirale fatale",
         "description": "Évolution de la Hache. Traverse les ennemis.",
-        "tips": "Requiert: Chandellier."
+        "tips": "Requiert: Chandelier."
       },
       "KNIFE": {
         "name": "Poignard",
@@ -820,7 +820,7 @@
         "description": "Augmente les Dégâts infligés de 10%."
       },
       "AREA": {
-        "name": "Chandellier",
+        "name": "Chandelier",
         "description": "Augmente la Portée des attaques de 10%."
       },
       "SPEED": {
@@ -857,7 +857,7 @@
       },
       "GROWTH": {
         "name": "Couronne",
-        "description": "Augmente l'expérience recue de 8%."
+        "description": "Augmente l'expérience reçue de 8%."
       },
       "LUCK": {
         "name": "Trèfle",
@@ -869,7 +869,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Augmente la régénération de PV de 0.2 PV par secondes."
+        "description": "Augmente la régénération de PV de 0.2 PV par seconde."
       },
       "VORTEX": {
         "name": "Mangeur d'âmes",
@@ -878,7 +878,7 @@
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau Bénite. Les zones endommagées vous suivent et grandissent lorsqu'elles se déplacent.",
+        "description": "Évolution de l'Eau Bénite. Les zones de dégâts vous suivent et grandissent lorsqu'elles se déplacent.",
         "tips": "Requiert: Orbe d'Attraction."
       },
       "SILF3": {
@@ -931,7 +931,7 @@
       "GUNS3": {
         "name": "Phieraggi",
         "description": "Union de Phiera Der Tuphello et Huit le Moineau. Plus forte avec des Résurections.",
-        "tips": "Requiert: Tiramitsu."
+        "tips": "Requiert: Tiramisu."
       },
       "ROCHER": {
         "name": "NO FUTURE",
@@ -940,7 +940,7 @@
       },
       "CART2": {
         "name": "Chariot",
-        "description": "Lance un projectille rebondissant. Quantité modifie le nombre de rebonds.",
+        "description": "Lance un projectile rebondissant. Quantité modifie le nombre de rebonds.",
         "tips": "Ignore: Durée."
       },
       "GATTI": {
@@ -950,17 +950,17 @@
       },
       "FLOWER": {
         "name": "Poudre Céleste",
-        "description": "Lance un projectille rebondissant. Le temps de pause est réduit lorsque vous vous déplacez.",
+        "description": "Lance un projectile rebondissant. Le temps de pause est réduit lorsque vous vous déplacez.",
         "tips": "Plus efficace avec: Vitesse de Déplacement."
       },
       "TRAPANO": {
-        "name": "Shadow Pinion",
+        "name": "Pignon d'Ombre",
         "description": "Génère des zones de dégats lorsque vous vous déplacez, tire quand tu t'arrètes.",
         "tips": "Plus efficace avec: Vitesse de Déplacement."
       },
       "TRAPANO2": {
         "name": "Valkyrie Turner",
-        "description": "Évolution du Shadow Pinion. Plus gros, plus long, plus rapide, plus fort.",
+        "description": "Évolution du Pignon d'Ombre. Plus gros, plus long, plus rapide, plus fort.",
         "tips": "Requiert: Ailes."
       },
       "STIGRANGATTI": {
@@ -970,7 +970,7 @@
       },
       "SHROUD": {
         "name": "Cape Rouge",
-        "description": "Évolution du Laurier. Limite les dégâts reçus a 10. Renvoie les dégâts losqu'il perd une chage.",
+        "description": "Évolution du Laurier. Limite les dégâts reçus a 10. Renvoie les dégâts losqu'il perd une charge.",
         "tips": "Requiert: Flèche de Gauche, Flèche de Droite."
       },
       "CORRIDOR": {
@@ -996,7 +996,7 @@
       },
       "VENTO": {
         "name": "Vento Sacro",
-        "description": "Plus puissant lors de mouvement continuss. Peut infliger des Dégâts Critiques.",
+        "description": "Plus puissant lors de mouvement continus. Peut infliger des Dégâts Critiques.",
         "tips": "Plus efficace avec: Chance, vitesse de Déplacement."
       },
       "VENTO2": {

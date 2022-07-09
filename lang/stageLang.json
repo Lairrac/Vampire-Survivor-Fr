@@ -178,7 +178,7 @@
       },
       "WAREHOUSE": {
         "stageName": "Usine Laitière",
-        "description": "La carte magique cachée ici pourraits enfin nous mener à un vampire, ou au moins à plus de poulet rôti.",
+        "description": "La carte magique cachée ici pourrait enfin nous mener à un vampire, ou au moins à plus de poulet rôti.",
         "hyperTips": "50% d'or bonus\n10% de chance bonus"
       },
       "MOLISE": {
@@ -198,7 +198,7 @@
       },
       "SINKING": {
         "stageName": "Clair de Lune",
-        "description": "Lorsque la lune est rouge et brillante, les revenants d'une ville engloutie par la mer refait surface, ramenant mystères et richesses.",
+        "description": "Lorsque la lune est rouge et brillante, les restes d'une ville engloutie par la mer refait surface, ramenant mystères et richesses.",
         "tips": "Niveau Bonus plein d'objets"
       },
       "STAGEX": {
