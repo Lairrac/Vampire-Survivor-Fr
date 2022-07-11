@@ -198,7 +198,7 @@
     "api": "french",
     "translations": {
       "0": {
-        "name": "Game Killer",
+        "name": "0 - Game Killer",
         "description": "Stoppe le gain d'XP. Les gemmes d'XP se transforment en projectiles explosifs. Tous les trésors contiennent au moins 3 objets."
       },
       "3": {

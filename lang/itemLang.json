@@ -306,7 +306,7 @@
       "COINBAGMAX": {
         "name": "Sac d'or mastoc",
         "description": "Ajoute 100 à votre total de pièces d'or.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "GEM": {
         "name": "Gemme d'Expérience",
@@ -315,32 +315,36 @@
       "OROLOGION": {
         "name": "Orologion",
         "description": "Immobilise tous les ennemis pendant 10 secondes.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "ROAST": {
         "name": "Poulet Rôti",
         "description": "Restaure 30 points de vie.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "ROSARY": {
         "name": "Chapelet",
         "description": "Élimine tous les ennemis visibles.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "TREASURE": {
         "name": "Coffre au Trésor",
         "description": "Attribue des pièces et des power-ups. Droppé par les ennemis puissants.",
-        "tips": "Qualité affectée par la chance."
+        "tips": "Qualité affectée par la Chance."
       },
       "VACUUM": {
         "name": "Vortex",
         "description": "Récupère toutes les gemmes d'expérience laissées au sol.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "NFT": {
 		"name": "Nduja Fritta",
         "description": "Souffle du feu en cône de façon temporaire. Objet affecté par les stats du joueur.",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
+      },
+      "GILDED": {
+        "name": "Trèfle Doré",
+        "description": "Récupère tout l'or laissé par terre et lance une Fièvre de l'Or."
       },
       "RELIC_MAP": {
         "name": "Carte de la Voie Lactée",
@@ -361,10 +365,6 @@
         "name": "Morceau Magique",
         "description": "Active de façon permanente le changement de musique dans la sélection du niveau.",
         "achievementTips": "Sélection de la musique."
-      },
-      "GILDED": {
-        "name": "Trèfle Doré",
-        "description": "Récupère tout l'or laissé par terre et lance une Fièvre de l'Or."
       },
       "RELIC_GLASSMASK": {
         "name": "Vizard de Verre",

@@ -700,40 +700,20 @@
         "description": "Lance une attaque horizontale qui traverse les ennemis.",
         "tips": "Ignore: Vitesse, Durée."
       },
-      "VAMPIRICA": {
-        "name": "Larme de Sang",
-        "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
-        "tips": "Requiert: Cœur Vide."
-      },
       "MAGIC_MISSILE": {
         "name": "Baguette Magique",
         "description": "Tire sur l'ennemi le plus proche.",
         "tips": "Ignore: Durée."
-      },
-      "HOLY_MISSILE": {
-        "name": "Sainte Baguette",
-        "description": "Évolution de la Baguette Magique. Tire en continu.",
-        "tips": "Requiert: Tome Vierge."
-      },
+      }, 
       "AXE": {
         "name": "Hache",
         "description": "Dégâts élevés, portée étendue.",
         "tips": "Ignore: Durée."
       },
-      "SCYTHE": {
-        "name": "Spirale fatale",
-        "description": "Évolution de la Hache. Traverse les ennemis.",
-        "tips": "Requiert: Chandelier."
-      },
       "KNIFE": {
         "name": "Poignard",
         "description": "Tire rapidement dans la direction vers laquelle le personnage fait face.",
         "tips": "Ignore: Durée."
-      },
-      "THOUSAND": {
-        "name": "Mille et Une Lames",
-        "description": "Évolution du Poignard. Tire en continu.",
-        "tips": "Requiert: Brassard."
       },
       "HOLYWATER": {
         "name": "Eau Bénite",
@@ -743,180 +723,57 @@
       "DIAMOND": {
         "name": "Traqueur de Runes",
         "description": "Traverse les ennemis, rebondit.",
-        "tips": "Plus efficace avec: Vitesse, Durée."
+        "tips": "Plus efficace avec: Vitesse des Projectiles, Durée."
       },
       "FIREBALL": {
         "name": "Baguette de Feu",
         "description": "Tire sur les ennemis aléatoirement, inflige de lourds dégâts.",
         "tips": "Ignore: Durée."
       },
-      "HELLFIRE": {
-        "name": "Feu de l'Enfer",
-        "description": "Évolution de la Baguette de Feu. Traverse les ennemis.",
-        "tips": "Requiert: Épinard."
-      },
       "HOLYBOOK": {
         "name": "Bible du Roi",
         "description": "Tourne autour du personnage.",
-        "tips": "Plus efficace avec: Vitesse, Durée, Portée."
-      },
-      "VESPERS": {
-        "name": "Écrits Hérétiques",
-        "description": "Évolution de la Bible du Roi. Ne s'arrête jamais.",
-        "tips": "Requiert: Reliure Magique."
+        "tips": "Plus efficace avec: Vitesse des Projectiles, Durée, Portée."
       },
       "CROSS": {
         "name": "Croix",
         "description": "Vise l'ennemi le plus proche avec un effet de boomerang.",
         "tips": "Ignore: Durée."
       },
-      "HEAVENSWORD": {
-        "name": "Épée Céleste",
-        "description": "Évolution de la Croix. Peut infliger des dégâts critiques.",
-        "tips": "Requiert: Trèfle."
-      },
       "GARLIC": {
         "name": "Ail",
         "description": "Inflige des dégâts aux ennemis à proximité. Recul et Immobilisation réduites pour cette arme.",
-        "tips": "Ignore: Quantité, Durée, Vitesse."
-      },
-      "LAUREL": {
-        "name": "Laurier",
-        "description": "Protège des dégâts une fois actif.",
-        "tips": "Plus efficace avec : Cooldown uniquement."
+        "tips": "Ignore: Quantité, Durée, Vitesse des Projectiles."
       },
       "LIGHTNING": {
         "name": "Bague du Tonnerre",
         "description": "Frappe les ennemis aléatoirement.",
-        "tips": "Ignore: Vitesse, Durée."
+        "tips": "Ignore: Vitesse des Projectiles, Durée."
       },
       "PENTAGRAM": {
         "name": "Pentagramme",
         "description": "Décime tout ce qui est visible.",
-        "tips": "Plus efficace avec: Cooldown et Chance uniquement."
-      },
-      "SILF": {
-        "name": "Pigeonne",
-        "description": "Bombarde une zone en forme de cercle.",
-        "tips": "Plus efficace avec: Cooldown, Durée."
-      },
-      "SILF2": {
-        "name": "Aile d'Ébène",
-        "description": "Bombarde une zone en forme de cercle.",
-        "tips": "Plus efficace avec: Cooldown, Durée."
-      },
-      "BONE": {
-        "name": "Os",
-        "description": "Tire un projectile qui rebondit.",
-        "tips": "Plus efficace avec: Durée, Vitesse."
-      },
-      "LANCET": {
-        "name": "Bistouri d'Horloger",
-        "description": "Immobilise les ennemis.",
-        "tips": "Ignore: Force, Vitesse, Quantité, Portée."
-      },
-      "POWER": {
-        "name": "Épinard",
-        "description": "Augmente les Dégâts infligés de 10%."
-      },
-      "AREA": {
-        "name": "Chandelier",
-        "description": "Augmente la Portée des attaques de 10%."
-      },
-      "SPEED": {
-        "name": "Brassard",
-        "description": "Augmente la Vitesse des Projectiles de 10%."
-      },
-      "COOLDOWN": {
-        "name": "Tome Vierge",
-        "description": "Réduit le Cooldown des armes de 8 %."
-      },
-      "DURATION": {
-        "name": "Reliure Magique",
-        "description": "Augmente la Durée des effets des armes de 10%."
-      },
-      "AMOUNT": {
-        "name": "Duplicateur",
-        "description": "Les armes tirent plus de projectiles."
-      },
-      "MAXHEALTH": {
-        "name": "Cœur Vide",
-        "description": "Augmente les PV max de 20%."
-      },
-      "ARMOR": {
-        "name": "Armure",
-        "description": "Réduit les dégâts reçus par 1. Augmente les dégats de représaille de 10%."
-      },
-      "MOVESPEED": {
-        "name": "Ailes",
-        "description": "Augmente la Vitesse du personnage de 10%."
-      },
-      "MAGNET": {
-        "name": "Orbe d'Attraction",
-        "description": "Augmente la Portée de ramassage."
-      },
-      "GROWTH": {
-        "name": "Couronne",
-        "description": "Augmente l'expérience reçue de 8%."
-      },
-      "LUCK": {
-        "name": "Trèfle",
-        "description": "Augmente la chance de 10%."
-      },
-      "GREED": {
-        "name": "Masque de pierre",
-        "description": "Augmente l'argent reçu des Pièces d'or de 10%."
-      },
-      "REGEN": {
-        "name": "Pummarola",
-        "description": "Augmente la régénération de PV de 0.2 PV par seconde."
-      },
-      "VORTEX": {
-        "name": "Mangeur d'âmes",
-        "description": "Évolution de l'Ail. Vole de Vie. Sa puissance augmente lorsqu'il récupère des PV.",
-        "tips": "Requiert: Pummarola."
-      },
-      "BORA": {
-        "name": "La Borra",
-        "description": "Évolution de l'Eau Bénite. Les zones de dégâts vous suivent et grandissent lorsqu'elles se déplacent.",
-        "tips": "Requiert: Orbe d'Attraction."
-      },
-      "SILF3": {
-        "name": "Vandalier",
-        "description": "Union de la Pigeonne et d'Aile d'Ebène."
-      },
-      "REVIVAL": {
-        "name": "Tiramitsu",
-        "description": "Revenez a la vie une fois avec 50% de vos PV."
-      },
-      "LOOP": {
-        "name": "Boucle du Tonnerre",
-        "description": "Évolution de la Bague du Tonnerre. Les projectiles frappent deux fois.",
-        "tips": "Requiert: Duplicateur."
-      },
-      "CURSE": {
-        "name": "Crâne O'Maniac",
-        "description": "Augmente la vitesse, les PV, la quantité et la fréquence des ennemis de 10%."
-      },
-      "CHERRY": {
-        "name": "Bombe Cerise",
-        "description": "Lance un projectile rebondissant. Explose, parfois.",
-        "tips": "Plus efficace avec: Chance."
+        "tips": "Plus efficace avec: Temps de Recharge et Chance uniquement."
       },
       "SONG": {
         "name": "Chant de Mana",
         "description": "Attaque verticalement, passe à travers les ennemis.",
-        "tips": "Ignore: quantité, Vitesse."
+        "tips": "Ignore: Quantité, Vitesse des Projectiles."
       },
-      "MANNAGGIA": {
-        "name": "Mannajja",
-        "description": "Évolution du Chant de Mana. Peut ralentir les ennemis.",
-        "tips": "Requiert: Crâne O'Maniac"
+      "GATTI": {
+        "name": "Gatti Amari",
+        "description": "Invoque des projectiles capricieux. Peuvent interagir avec les pickups.",
+        "tips": "Plus efficace avec: Chance, Poulet Rôti."
       },
-      "SIRE": {
-        "name": "Lune Vorace",
-        "description": "Évolution du Pentagramme. Génère des gemmes supplémentaires et les aspires toutes.",
-        "tips": "Requiert: Couronne."
+      "TRAPANO": {
+        "name": "Pignon d'Ombre",
+        "description": "Génère des zones de dégats lorsque vous vous déplacez, tire quand tu t'arrètes.",
+        "tips": "Plus efficace avec: Vitesse de Déplacement."
+      },
+      "VENTO": {
+        "name": "Vento Sacro",
+        "description": "Plus puissant lors de mouvement continus. Peut infliger des Dégâts Critiques.",
+        "tips": "Plus efficace avec: Chance, Vitesse de Déplacement."
       },
       "GUNS": {
         "name": "Phiera Der Tuphello",
@@ -928,55 +785,212 @@
         "description": "Tire rapidement dans quatre directions fixes.",
         "tips": "Ignore: Durée."
       },
-      "GUNS3": {
-        "name": "Phieraggi",
-        "description": "Union de Phiera Der Tuphello et Huit le Moineau. Plus forte avec des Résurections.",
-        "tips": "Requiert: Tiramisu."
+      "SILF": {
+        "name": "Pigeonne",
+        "description": "Bombarde une zone en forme de cercle.",
+        "tips": "Plus efficace avec: Temps de Recharge, Durée."
+      },
+      "SILF2": {
+        "name": "Aile d'Ébène",
+        "description": "Bombarde une zone en forme de cercle.",
+        "tips": "Plus efficace avec: Temps de Recharge, Durée."
+      },
+      "LANCET": {
+        "name": "Bistouri d'Horloger",
+        "description": "Immobilise les ennemis.",
+        "tips": "Ignore: Force, Vitesse, Quantité, Portée."
+      },
+      "LAUREL": {
+        "name": "Laurier",
+        "description": "Protège des dégâts une fois actif.",
+        "tips": "Plus efficace avec : Cooldown uniquement."
+      },
+      "VAMPIRICA": {
+        "name": "Larme de Sang",
+        "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
+        "tips": "Requiert: Cœur Vide."
+      },
+      "HOLY_MISSILE": {
+        "name": "Sainte Baguette",
+        "description": "Évolution de la Baguette Magique. Tire en continu.",
+        "tips": "Requiert: Tome Vierge."
+      },
+      "SCYTHE": {
+        "name": "Spirale fatale",
+        "description": "Évolution de la Hache. Traverse les ennemis.",
+        "tips": "Requiert: Chandelier."
+      },
+      "THOUSAND": {
+        "name": "Mille et Une Lames",
+        "description": "Évolution du Poignard. Tire en continu.",
+        "tips": "Requiert: Brassard."
+      },
+      "BORA": {
+        "name": "La Borra",
+        "description": "Évolution de l'Eau Bénite. Les zones de dégâts vous suivent et grandissent lorsqu'elles se déplacent.",
+        "tips": "Requiert: Orbe d'Attraction."
       },
       "ROCHER": {
         "name": "NO FUTURE",
         "description": "Évolution du Traqueur de Runes. Explose lorsqu'il rebondit et lors de dégâts de représaille.",
         "tips": "Requiert: Armure"
       },
-      "CART2": {
-        "name": "Chariot",
-        "description": "Lance un projectile rebondissant. Quantité modifie le nombre de rebonds.",
-        "tips": "Ignore: Durée."
+      "HELLFIRE": {
+        "name": "Feu de l'Enfer",
+        "description": "Évolution de la Baguette de Feu. Traverse les ennemis.",
+        "tips": "Requiert: Épinard."
       },
-      "GATTI": {
-        "name": "Gatti Amari",
-        "description": "Invoque des projectiles capricieux. Peuvent interagir avec les pickups.",
-        "tips": "Plus efficace avec: Chance, poulet rôti."
+      "VESPERS": {
+        "name": "Écrits Hérétiques",
+        "description": "Évolution de la Bible du Roi. Ne s'arrête jamais.",
+        "tips": "Requiert: Reliure Magique."
       },
-      "FLOWER": {
-        "name": "Poudre Céleste",
-        "description": "Lance un projectile rebondissant. Le temps de pause est réduit lorsque vous vous déplacez.",
-        "tips": "Plus efficace avec: Vitesse de Déplacement."
+      "HEAVENSWORD": {
+        "name": "Épée Céleste",
+        "description": "Évolution de la Croix. Peut infliger des dégâts critiques.",
+        "tips": "Requiert: Trèfle."
       },
-      "TRAPANO": {
-        "name": "Pignon d'Ombre",
-        "description": "Génère des zones de dégats lorsque vous vous déplacez, tire quand tu t'arrètes.",
-        "tips": "Plus efficace avec: Vitesse de Déplacement."
+      "VORTEX": {
+        "name": "Mangeur d'âmes",
+        "description": "Évolution de l'Ail. Vole de Vie. Sa puissance augmente lorsqu'il récupère des PV.",
+        "tips": "Requiert: Pummarola."
       },
-      "TRAPANO2": {
-        "name": "Valkyrie Turner",
-        "description": "Évolution du Pignon d'Ombre. Plus gros, plus long, plus rapide, plus fort.",
-        "tips": "Requiert: Ailes."
+      "LOOP": {
+        "name": "Boucle du Tonnerre",
+        "description": "Évolution de la Bague du Tonnerre. Les projectiles frappent deux fois.",
+        "tips": "Requiert: Duplicateur."
+      },
+      "SIRE": {
+        "name": "Lune Vorace",
+        "description": "Évolution du Pentagramme. Génère des gemmes supplémentaires et les aspires toutes.",
+        "tips": "Requiert: Couronne."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Évolution du Chant de Mana. Peut ralentir les ennemis.",
+        "tips": "Requiert: Crâne O'Maniac"
       },
       "STIGRANGATTI": {
         "name": "Chasseur Vicieux",
         "description": "Évolution de Gatti Amari. Peux transformer n'importe quoi en Or.",
         "tips": "Requiert: Masque de Pierre."
       },
-      "SHROUD": {
-        "name": "Cape Rouge",
-        "description": "Évolution du Laurier. Limite les dégâts reçus a 10. Renvoie les dégâts losqu'il perd une charge.",
-        "tips": "Requiert: Flèche de Gauche, Flèche de Droite."
+      "TRAPANO2": {
+        "name": "Valkyrie Turner",
+        "description": "Évolution du Pignon d'Ombre. Plus gros, plus long, plus rapide, plus fort.",
+        "tips": "Requiert: Ailes."
+      },
+      "VENTO2": {
+        "name": "Fuwalafuwaloo",
+        "description": "Union du Vento Sacro et de la Larme de Sang. Les Coups Critiques peuvent générer des explosions."
+      },
+      "GUNS3": {
+        "name": "Phieraggi",
+        "description": "Union de Phiera Der Tuphello et Huit le Moineau. Plus forte avec des Résurections.",
+        "tips": "Requiert: Tiramisu."
+      },
+      "SILF3": {
+        "name": "Vandalier",
+        "description": "Union de la Pigeonne et d'Aile d'Ebène."
       },
       "CORRIDOR": {
         "name": "Corridor Infini",
         "description": "Évolution du Bistouri d'Horloger. Divise les Pv des ennemis.",
         "tips": "Requiert: Anneau d'Or, Anneau d'Argent."
+      },
+      "SHROUD": {
+        "name": "Cape Rouge",
+        "description": "Évolution du Laurier. Limite les dégâts reçus a 10. Renvoie les dégâts losqu'il perd une charge.",
+        "tips": "Requiert: Flèche de Gauche, Flèche de Droite."
+      },
+      "BONE": {
+        "name": "Os",
+        "description": "Tire un projectile qui rebondit.",
+        "tips": "Plus efficace avec: Durée, Vitesse des Projectiles."
+      },
+      "CHERRY": {
+        "name": "Bombe Cerise",
+        "description": "Lance un projectile rebondissant. Explose, parfois.",
+        "tips": "Plus efficace avec: Chance."
+      },
+      "CART2": {
+        "name": "Chariot",
+        "description": "Lance un projectile rebondissant. Quantité modifie le nombre de rebonds.",
+        "tips": "Ignore: Durée."
+      },
+      "FLOWER": {
+        "name": "Poudre Céleste",
+        "description": "Lance un projectile rebondissant. Le temps de pause est réduit lorsque vous vous déplacez.",
+        "tips": "Plus efficace avec: Vitesse de Déplacement."
+      },
+      "LAROBBA": {
+		"name": "La Robba",
+        "description": "Génère des projectiles rebondissants.",
+		"tips": "Plus efficace avec: Durée, Vitesse des Projectiles"
+      },
+      "MAXHEALTH": {
+        "name": "Cœur Vide",
+        "description": "Augmente les PV max de 20%."
+      },
+      "COOLDOWN": {
+        "name": "Tome Vierge",
+        "description": "Réduit le Temps de Recharge des armes de 8 %."
+      },
+      "AREA": {
+        "name": "Chandelier",
+        "description": "Augmente la Portée des attaques de 10%."
+      },
+      "SPEED": {
+        "name": "Brassard",
+        "description": "Augmente la Vitesse des Projectiles de 10%."
+      },
+      "MAGNET": {
+        "name": "Orbe d'Attraction",
+        "description": "Augmente la Portée de Ramassage."
+      },
+      "ARMOR": {
+        "name": "Armure",
+        "description": "Réduit les dégâts reçus par 1. Augmente les dégats de représaille de 10%."
+      },
+      "POWER": {
+        "name": "Épinard",
+        "description": "Augmente les Dégâts infligés de 10%."
+      },
+      "DURATION": {
+        "name": "Reliure Magique",
+        "description": "Augmente la Durée des effets des armes de 10%."
+      },
+      "LUCK": {
+        "name": "Trèfle",
+        "description": "Augmente la Chance de 10%."
+      },
+      "REGEN": {
+        "name": "Pummarola",
+        "description": "Augmente la régénération de PV de 0.2 PV par seconde."
+      },
+      "AMOUNT": {
+        "name": "Duplicateur",
+        "description": "Augmente la Quantité de prjectiles tirés par les armes."
+      },
+      "GROWTH": {
+        "name": "Couronne",
+        "description": "Augmente l'expérience reçue de 8%."
+      },
+      "CURSE": {
+        "name": "Crâne O'Maniac",
+        "description": "Augmente la vitesse, les PV, la quantité et la fréquence des ennemis de 10%."
+      },
+      "GREED": {
+        "name": "Masque de pierre",
+        "description": "Augmente l'argent reçu des Pièces d'Or de 10%."
+      },
+      "MOVESPEED": {
+        "name": "Ailes",
+        "description": "Augmente la Vitesse du Personnage de 10%."
+      },
+      "REVIVAL": {
+        "name": "Tiramisu",
+        "description": "Revenez a la vie une fois avec 50% de vos PV."
       },
       "GOLD": {
         "name": "Anneau d'Or",
@@ -984,7 +998,7 @@
       },
       "SILVER": {
         "name": "Anneau  d'Argent",
-        "description": "Porte ... Bistouri ..."
+        "description": "Porter ... Bistouri ..."
       },
       "LEFT": {
         "name": "Flèche de Gauche",
@@ -994,24 +1008,9 @@
         "name": "Flèche de Droite",
         "description": "Canalise les pouvoirs sombres pour maudire son porteur."
       },
-      "VENTO": {
-        "name": "Vento Sacro",
-        "description": "Plus puissant lors de mouvement continus. Peut infliger des Dégâts Critiques.",
-        "tips": "Plus efficace avec: Chance, vitesse de Déplacement."
-      },
-      "VENTO2": {
-        "name": "Fuwalafuwaloo",
-        "description": "Union du Vento Sacro et de la Larme de Sang. Les Coups Critiques peuvent générer des explosions."
-      },
       "PANDORA": {
-        "tips": "Boite de Torrona",
+        "name": "Boite de Torrona",
         "description": "Objet maudit, mais augmente les Dégâts, la Vitesse des Projectiles, la Durée et la Portée de 4%."
-      },
-      "LAROBBA": {
-		"name": "La Robba",
-        "tips": "Best with: duration, speed.",
-        "description": "Génère des projectiles rebondissants.",
-		"tips": "Plus efficace avec: Durée, Vitesse des Projectiles"
       }
     }
   },

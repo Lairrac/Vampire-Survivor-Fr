@@ -231,7 +231,7 @@
     "translations": {
       "POWER": {
         "name": "Puissance",
-        "description": "Augmente les dégâts infligés de 5% par rang (+ 25% max)."
+        "description": "Augmente les Dégâts infligés de 5% par rang (+ 25% max)."
       },
       "REGEN": {
         "name": "Guérison",
@@ -239,7 +239,7 @@
       },
       "MAXHEALTH": {
         "name": "Santé max",
-        "description": "Augmente la santé max de 10 % par rang (+ 30% max)."
+        "description": "Augmente les PV Max de 10 % par rang (+ 30% max)."
       },
       "ARMOR": {
         "name": "Armure",
@@ -254,7 +254,7 @@
         "description": "Les projectiles se déplacent 10% plus vite par rang (+ 20% max)."
       },
       "COOLDOWN": {
-        "name": "Cooldown",
+        "name": "Temps de Recharge",
         "description": "Les armes sont utilisées 2.5% plus vite par rang (+ 5% max)."
       },
       "DURATION": {
@@ -267,7 +267,7 @@
       },
       "MOVESPEED": {
         "name": "Vitesse",
-        "description": "Le personnage se déplace 5% plus vite par rang (+ 10% max)."
+        "description": "Le personnage se déplace 5% plus vite par rang\n(+ 10% max)."
       },
       "MAGNET": {
         "name": "Aimant",
@@ -311,7 +311,7 @@
       },
       "PANDORA": {
         "name": "Omni",
-        "description": "Increases Might, Projectile Speed, Duration, and Area by 2% per rank (max +10%)."
+        "description": "Augmente la Puissance, la Vitesse des Projectiles, La durée et la Portée des Projectiles de 2% par rang (max +10%)."
       }
     }
   },
